@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Age Calculator Application</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css">
+    <link rel="shortcut icon" href="calculator-solid.ico" type="image/x-icon">
+
+</head>
+
+<body>
+    <div class="container">
+        <h1>Age Calculator <i class="fa-solid fa-calendar-days"></i></h1>
+        <form id="agecalc">
+            <div class="form-group">
+                <label for="birthdate">Enter your date of birth:</label>
+                <input type="text" id="birthdate" placeholder="DD-MM-YYYY" required>
+            </div>
+            <div class="form-group">
+                <button type="submit">Calculate Age</button>
+            </div>
+        </form>
+        <div class="result-container" id="result-container">
+            <!-- result will show here  -->
+        </div>
+    </div>
+    <script src="script.js"></script>
+</body>
+
+</html>
