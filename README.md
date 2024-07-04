@@ -37,4 +37,4 @@ To run this application locally, follow these steps:
 
 ## Contact
 Shadi Sbaih - [@i.shadi.s](https://www.instagram.com/i.shadi.s)
-Project Link: [https://github.com/ShadiSbaih/Age-Calculator-Application](https://github.com/ShadiSbaih/Age-Calculator-Application)
+Project Link: [https://age-calc-by-shadi.netlify.app/](https://age-calc-by-shadi.netlify.app/)
