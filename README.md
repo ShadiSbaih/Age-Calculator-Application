@@ -36,5 +36,5 @@ To run this application locally, follow these steps:
 4. The application will display your age in years, months, days, and weeks passed.
 
 ## Contact
-Shadi Sbaih [@i.shadi.s]:(https://www.instagram.com/i.shadi.s)
-Project Link: [https://age-calc-by-shadi.netlify.app/](https://github.com/ShadiSbaih/Age-Calculator-Application.git)
+Shadi Sbaih - [@i.shadi.s](https://www.instagram.com/i.shadi.s)
+Project Link: [https://github.com/ShadiSbaih/Age-Calculator-Application](https://github.com/ShadiSbaih/Age-Calculator-Application)
